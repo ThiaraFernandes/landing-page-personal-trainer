@@ -44,7 +44,7 @@ const Hero: React.FC<HeroProps> = ({ onNavigate }) => {
           </FloatingCard>
 
           <FloatingCard className="card-2">
-            <CardTitle>3 Anos</CardTitle>
+            <CardTitle>2 Anos</CardTitle>
             <CardText>De experiência no mercado</CardText>
           </FloatingCard>
         </HeroImageContainer>

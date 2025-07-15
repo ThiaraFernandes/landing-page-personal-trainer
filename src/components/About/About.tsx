@@ -58,7 +58,7 @@ const About: React.FC = () => {
           </StatItem>
 
           <StatItem>
-            <StatNumber>3</StatNumber>
+            <StatNumber>2</StatNumber>
             <StatLabel>Anos de Experiência</StatLabel>
           </StatItem>
 
