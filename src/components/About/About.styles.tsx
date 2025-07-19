@@ -37,7 +37,7 @@ export const AboutContent = styled.div`
 
 export const AboutText = styled.p`
   margin-bottom: 24px;
-  color: ${theme.colors.mediumGray};
+  color: ${theme.colors.textBase};
   line-height: 1.7;
   font-size: 17px;
 `;

@@ -185,7 +185,7 @@ export const Section = styled.section`
 export const SectionTitle = styled.h2`
   text-align: center;
   margin-bottom: 48px;
-  color: ${theme.colors.darkGray};
+  color: ${theme.colors.primary};
 
   @media (max-width: ${theme.breakpoints.mobile}) {
     margin-bottom: 32px;
