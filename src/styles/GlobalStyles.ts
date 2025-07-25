@@ -24,6 +24,7 @@ export const GlobalStyles = createGlobalStyle`
     max-width: 100vw;
     display: flex;
     justify-content: center; 
+    background-color: #272727ff;
   }
 
   h1, h2, h3, h4, h5, h6 {
